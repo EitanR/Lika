@@ -72,7 +72,7 @@ Líká v0.55 by Eitan R is licensed under [CC BY-SA 4.0](https://creativecommons
 ## Contact
 - [GitHub Issues](https://github.com/EitanR/Lika/issues)
 - [r/LikaConlang](https://reddit.com/r/LikaConlang)
-- Email: [your.email@example.com] [Note: Provide email]
+- Email: [eitan.rosa@gmail.com]
 - [ConWorkShop](https://conworkshop.com/) [Note: Add link]
 
 **Bie ji! Join r/LikaConlang to shape Líká’s future!**
