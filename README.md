@@ -1,78 +1,36 @@
-# Líká v0.55 - A Minimalistic Auxlang for Logical and Emotional Expression
+# Liká: A Constructed Auxiliary Language (v0.56)
 
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+**Version**: 0.56 (Beta, April 21, 2025)  
+**Status**: Pre-public, internal reference. Version 1.0 targeted for public release.  
+**License**: CC BY-SA 4.0 by Eitan Rosa.
 
-## Welcome to Líká!
+## Overview
+Liká is a constructed auxiliary language designed for clarity, expressiveness, and accessibility. It features:
+- **Strict SOV Syntax**: Uses delimiters `(...)` (subject), `[...]` (direct object, `-x`), `{...}` (indirect/oblique, `-f`, `-th`).
+- **Minimal Lexicon**: 240 (C)V roots, 4 topic/focus markers, 3 argument markers.
+- **Expressive Tones**: Diphthong-based `/` (~7-semitone rise) and `****` (~7-semitone dip) for emotional emphasis.
+- **Compounding and Reduplication**: E.g., `gi-lo` (want-to-give), `fi-fi` (dear friend).
 
-Líká is a minimalistic auxiliary language (auxlang) blending **logical clarity** (unique markers) and **emotional nuance** (diphthong-based tones). With only 236 roots and room for 64 more “earned” through community use, Líká offers a clear, expressive system for global communication. Currently in beta (v0.55), we invite you to try Líká, share feedback, and propose new roots to shape its future!
+Version 0.56 is a major update over v0.55, offering a complete lexicon, refined grammar, and teaching tools like Junkspire Bazaar scenarios.
 
-**Try it**:
-- “lu tox ji” = Person moves thing (logical clarity with -x marker).
-- “A kan fifi loie” = I love dear friend (emotional nuance with fifi and tones).
-
-## Why Líká?
-Líká addresses common conlang challenges:
-- **Clarity over amb# Líká v0.55 - Expressive but Minimalistic Conlang/Auxlang Balancing Emotional and Logical Expressiveness
-
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-
-## Welcome to Líká!
-
-Líká is a minimalistic auxiliary language (auxlang) blending **logical clarity** (unique markers) and **emotional nuance** (diphthong-based tones). With 236 roots and room for 64 more “earned” through community use, Líká offers a clear, expressive system for global communication. In beta (v0.55), we invite you to try Líká, share feedback, and propose new roots to shape its future!
-
-**Try it**:
-- “lu tox ji” = Person moves thing (logical clarity with -x marker).
-- “A kan fifi loie” = I love dear friend (emotional nuance with fifi and tones).
-
-## Why Líká?
-Líká addresses conlang challenges:
-- **Clarity** (vs. Toki Pona): Markers (-x, -f, -th) ensure precise roles, e.g., “lu kan fif tox gi” = Person gives thing to friend.
-- **Completeness** (vs. Quenya/Sindarin): Fully defined grammar and lexicon, covering NSM primes.
-- **Simplicity** (vs. Na’vi): Minimal roots, isolating grammar, diacritic-free tones.
-- **Logic + Emotion**: Logical structure (SOV, compounding like gilo = give-want) meets emotional tones (si vs. sie vs. sia).
-
-## Key Features
-- **Phonology**: 18 consonants, 5 vowels, 10 diphthongs, 3 tones (flat, rising, falling), no diacritics.
-- **Grammar**: Strict SOV, isolating, with argument markers (-x, -f, -th), topic/focus markers (kan, kash), and compounding (e.g., loie = love-want).
-- **Lexicon**: 236 roots, expandable to 300 via proposals. Loanwords like kofi = coffee.
-- **Vignettes**: Scenarios (e.g., Junkspire Bazaar, Moonlit Rooftop) for practical use.
-- **Collaboration**: Propose roots for ~64 slots based on use and need.
+## Documentation
+- [Liká Grammar, Lexicon, and Teaching Guide v0.56](docs/Líká%20Grammar,%20Lexicon,%20and%20Teaching%20Guide%20v0.56.pdf)
+- [Liká v0.56 AI Conversation Assistant/Trainer](docs/Líká%20v0.56%20AI%20Conversation%20Assistant_Trainer.pdf)
 
 ## Getting Started
-1. **Read**:
-   - [Grammar and Lexicon v0.55](docs/Lika_Grammar_Lexicon_v0.55.pdf)
-   - [Teaching Guide v0.55](docs/Lika_Teaching_Guide_v0.55.pdf): NSM map, templates, drills.
-   - [Conversational Guide v0.55](docs/Lika_Conversational_Guide_v0.55.pdf): Vignettes, AI prompts.
-2. **Listen**: [Audio Samples](docs/audio/) for /θ/, diphthongs, minimal pairs (siuth vs. siuf). [Note: Update link when uploaded]
-3. **Practice**: Share sentences in [r/LikaConlang](https://reddit.com/r/LikaConlang), e.g., “A kan fif kofi si gilo” = I want to give small coffee.
-4. **Join**:
-   - [r/LikaConlang](https://reddit.com/r/LikaConlang): Share sentences, propose roots, discuss.
-   - [ConWorkShop](https://conworkshop.com/) [Note: Add link after setup]
-   - [CONLANG-L Mailing List](https://listserv.brown.edu/?A0=CONLANG-L)
-   - [Fiat Lingua](http://fiatlingua.org/) [Note: Add link post-submission]
+1. Read the [Grammar and Lexicon Guide](docs/Líká%20Grammar,%20Lexicon,%20and%20Teaching%20Guide%20v0.56.pdf) for core rules.
+2. Practice with the [AI Trainer](docs/Líká%20v0.56%20AI%20Conversation%20Assistant_Trainer.pdf) for SOV and tones.
+3. Try a sentence: `(...) {fi-f} [pe-x] gi` = "Person to-friend device gives."
 
-## Contribute
-Help Líká grow to 300 roots:
-- **Use**: Post sentences, stories, or vignettes in [r/LikaConlang](https://reddit.com/r/LikaConlang) (e.g., “A kan fif pa si gilo” = I want to give small tool).
-- **Propose Roots**: Submit via [Issues](https://github.com/EitanR/Lika/issues). Example:
-  - Root: mus /mus/
-  - Meaning: music
-  - Need: Cultural contexts (e.g., game night vignette).
-- **Feedback**: Share tone or phoneme issues (/θ/, /x/) in r/LikaConlang or GitHub.
-- **Create**: Share translations, art, or courses under CC BY-SA 4.0, crediting Eitan R.
+## Example
+Bazaar trade:  
+`(...) kan {fi-fi-f} [yu sie-x] gi-lo/ sie!` = "As for I, to-dear-friend small-game fervently-want-to-give!"  
+See the [AI Trainer](docs/Líká%20v0.56%20AI%20Conversation%20Assistant_Trainer.pdf) for more.
 
-## License
-Líká v0.55 by Eitan R is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Share, adapt, and build upon, with attribution and same license. Root proposals require Eitan R’s approval.
+## Notes
+- v0.55 files are in [archive/](archive/).
+- Feedback welcome via [issues](https://github.com/EitanR/Lika/issues).
 
 ## Roadmap
-- **v0.6 (Q3 2025)**: Add 10-20 roots, refine tones.
-- **v1.0 (2026)**: Finalize 300 roots, publish in Fiat Lingua.
-- **Ongoing**: Build a global Líká community via r/LikaConlang.
-
-## Contact
-- [GitHub Issues](https://github.com/EitanR/Lika/issues)
-- [r/LikaConlang](https://reddit.com/r/LikaConlang)
-- Email: [eitan.rosa@gmail.com]
-- [ConWorkShop](https://conworkshop.com/) [Note: Add link]
-
-**Bie ji! Join r/LikaConlang to shape Líká’s future!**
+- v0.6: Add tone audio samples, expand Bazaar scenarios.
+- v1.0: Public release with full teaching resources.
